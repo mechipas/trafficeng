@@ -1,0 +1,13 @@
+name: stapy38
+channels:
+  - conda-forge
+  - anaconda
+  - numba
+  - defaults
+dependencies:
+  - osmnx
+  - numba
+  - geojson
+  - bokeh
+  - jupyterlab
+prefix: /home/paul/miniconda3/envs/stapy38
