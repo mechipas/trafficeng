@@ -1,0 +1,10 @@
+numpy
+numba
+osmnx
+scipy
+ipfn
+geojson
+bokeh
+proj
+notebook
+jupyter-lab
