@@ -1,0 +1,3 @@
+[submodule "python-traffictoolbox"]
+	path = python-traffictoolbox
+	url = git@gitlab.kuleuven.be:ITSCreaLab/mobilitytools/python-traffictoolbox.git
