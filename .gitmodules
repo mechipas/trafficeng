@@ -1,3 +1,4 @@
 [submodule "python-traffictoolbox"]
 	path = python-traffictoolbox
 	url = https://gitlab.kuleuven.be/ITSCreaLab/mobilitytools/python-traffictoolbox.git
+	branch = joachim
