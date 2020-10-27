@@ -10,4 +10,5 @@ dependencies:
   - geojson
   - bokeh
   - jupyterlab
+  - xlrd
 prefix: /home/paul/miniconda3/envs/stapy38
