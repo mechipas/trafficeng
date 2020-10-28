@@ -15,9 +15,13 @@ The different steps specified above are each put into a Jupyter Notebook and are
 - ITS
 - Supply Chain Engineering
 - Integrated Practicum 2
+
 Documentation about python is plentiful, it is definitely worthwhile to check:
+
 - [python guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
 Knowing the most important types used to easily store data should already be sufficient to get started, the most important ones are:
+
 - dictionaries
 - lists
 - tuples
