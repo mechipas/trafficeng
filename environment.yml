@@ -1,14 +1,23 @@
-name: stapy38
+name: dyntapy
 channels:
-  - conda-forge
+  - https://conda.anaconda.org/conda-forge/
+  - https://conda.anaconda.org/anaconda
   - anaconda
   - numba
+  - conda-forge
   - defaults
 dependencies:
-  - osmnx
+  - python=3.9
   - numba
-  - geojson
+  - osmnx
+  - numpy
+  - scipy
+  - pip
+  - jupyter
   - bokeh
-  - jupyterlab
-  - xlrd
-prefix: /home/paul/miniconda3/envs/stapy38
+  - geojson
+  - pandas
+  - shapely
+  - networkx
+  - pip:
+      - dyntapy
