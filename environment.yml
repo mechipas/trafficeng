@@ -20,4 +20,4 @@ dependencies:
   - shapely
   - networkx
   - pip:
-      - dyntapy=0.1.4
+      - dyntapy=0.1.5
