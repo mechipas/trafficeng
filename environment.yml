@@ -1,4 +1,4 @@
-name: dyntapy
+name: traffic-eng
 channels:
   - https://conda.anaconda.org/conda-forge/
   - https://conda.anaconda.org/anaconda
@@ -20,4 +20,4 @@ dependencies:
   - shapely
   - networkx
   - pip:
-      - dyntapy
+      - dyntapy=0.1.4
